@@ -75,7 +75,7 @@ body{
     }
     .right-side{
         border-radius: 7px 7px 0 0;
-        background:linear-gradient(to right,  rgba(170, 92, 219, 0.473) 100%, transparent 100%),url(../images/image-header-mobile.jpg);
+        background:linear-gradient(to right,  rgba(170, 92, 219, 0.473) 100%, transparent 100%),url(./image-header-mobile.jpg);
         background-position: center center;
         background-size: contain;
         width: 100%;
@@ -144,7 +144,7 @@ body{
     .right-side{
         border-radius: 0 7px 7px 0;
         width: 50%;
-        background:linear-gradient(45deg,   rgba(170, 92, 219, 0.473) 100%, transparent 100%),url(../images/image-header-desktop.jpg)no-repeat;
+        background:linear-gradient(45deg,   rgba(170, 92, 219, 0.473) 100%, transparent 100%),url(./image-header-desktop.jpg)no-repeat;
         background-size: cover;
         background-position: center center;
     }
